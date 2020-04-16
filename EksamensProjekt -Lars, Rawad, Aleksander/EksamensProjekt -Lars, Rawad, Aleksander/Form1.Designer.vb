@@ -53,7 +53,7 @@ Partial Class Form1
         'TreeView1
         '
         Me.TreeView1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.TreeView1.Location = New System.Drawing.Point(584, 102)
+        Me.TreeView1.Location = New System.Drawing.Point(674, 121)
         Me.TreeView1.Name = "TreeView1"
         TreeNode1.Name = "Sin,Cos,Tan"
         TreeNode1.Text = "Sin,Cos,Tan"
