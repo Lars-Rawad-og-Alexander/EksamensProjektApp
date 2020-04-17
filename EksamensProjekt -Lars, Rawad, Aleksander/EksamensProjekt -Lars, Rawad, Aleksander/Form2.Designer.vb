@@ -76,7 +76,7 @@ Partial Class CosSinTan
         'back
         '
         Me.back.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.back.Location = New System.Drawing.Point(12, 12)
+        Me.back.Location = New System.Drawing.Point(12, 27)
         Me.back.Name = "back"
         Me.back.Size = New System.Drawing.Size(79, 49)
         Me.back.TabIndex = 4
